@@ -413,7 +413,7 @@
                 <div class="row copyright">
                     <div class="col-lg-12 col-12">
                         <p>
-                            All Rights Reserved. Copyright MJN Travel 2023.
+                            All Rights Reserved. Copyright MJN Travel.
                         </p>
                     </div>
                 </div>
